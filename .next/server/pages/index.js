@@ -5,7 +5,7 @@ exports.id = 405;
 exports.ids = [405];
 exports.modules = {
 
-/***/ 573:
+/***/ 622:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 // ESM COMPAT FLAG
@@ -21,7 +21,7 @@ __webpack_require__.d(__webpack_exports__, {
 const jsx_runtime_namespaceObject = require("react/jsx-runtime");
 // EXTERNAL MODULE: external "react"
 var external_react_ = __webpack_require__(689);
-;// CONCATENATED MODULE: ./pages/index.js
+;// CONCATENATED MODULE: ./src/pages/index.js
 
 
 async function getStaticProps(context) {
@@ -69,7 +69,7 @@ module.exports = require("react");
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = (__webpack_exec__(573));
+var __webpack_exports__ = (__webpack_exec__(622));
 module.exports = __webpack_exports__;
 
 })();
